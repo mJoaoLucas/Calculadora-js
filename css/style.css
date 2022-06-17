@@ -57,12 +57,14 @@ table td {
     background-color: #146c74;
 }
 
-.igual {
+.btn-igual {
     background-color: #1b7269;
+    height: 45px;
 }
 
-.igual:hover {
+.btn-igual:hover {
     background-color: #25968a;
+    cursor: pointer;
 }
 
 .result {
